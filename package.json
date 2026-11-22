@@ -1,6 +1,6 @@
 {
   "name": "@local/session-delete",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": true,
   "description": "Adds a delete row with an inline confirmation to the sidebar Session menu and removes the Session's local files.",
   "type": "module",
